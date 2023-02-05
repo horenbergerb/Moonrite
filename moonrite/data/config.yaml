@@ -1,0 +1,10 @@
+regions:
+  osrs: [0, 0, 801, 503]
+  compass: [590, 7, 621, 38]
+
+compass:
+    compass_file: 'data/navigation/compass.png'
+    rotation_estimation:
+        compass_scale: 2.5
+        min_match_count: 3
+        lowe_ratio_thresh: 0.7
